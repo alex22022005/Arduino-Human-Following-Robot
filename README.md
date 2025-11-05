@@ -1,5 +1,3 @@
-user@github:~/arduino-human-following-robot$ cat README.md
-
 # Arduino Human-Following Robot
 
 This project contains an Arduino sketch for a simple 2WD robot that follows a human or object. It uses two IR sensors for steering (detecting if the object is to the left or right) and an ultrasonic sensor to maintain a set distance from the target.
@@ -71,7 +69,5 @@ The logic is based on the state of the two IR sensors and the distance from the 
 
 ## 👤 Author
 
-* **M_ideas_youtube**
-* Instagram: [M_ideas_youtube](https://www.instagram.com/M_ideas_youtube)
-
-user@github:~/arduino-human-following-robot$
+* **Media Clashers**
+* Youtube: [Media Clashers](https://www.youtube.com/channel/UCHY4RulTk-YcQn4lFOlpA3w)
