@@ -69,5 +69,5 @@ The logic is based on the state of the two IR sensors and the distance from the 
 
 ## 👤 Author
 
-* **Media Clashers**
+* **Antony Alex S**
 * Youtube: [Media Clashers](https://www.youtube.com/channel/UCHY4RulTk-YcQn4lFOlpA3w)
